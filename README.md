@@ -6,7 +6,7 @@ This project is a carpooling application that allows students to share rides to 
 ## Table of Contents
 - [Installing](#installing)
 - [App Screenshots](#usage)
-- [Info](#contributing)
+- [Info](#info)
 
 ## Installing
 1. Clone the repository
