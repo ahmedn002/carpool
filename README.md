@@ -1,11 +1,12 @@
 # Project Title: ASUFE - Carpool
+<img src="screenshots/Carpool Documentation.jpg" alt="drawing" width="100%"/>
 Brief project description 2-3 sentences.
 This project is a carpooling application that allows students to share rides to and from the faculty. The application allows students to create a profile, post rides, and search for rides.
 
 ## Table of Contents
 - [Installing](#installing)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [App Screenshots](#usage)
+- [Info](#contributing)
 
 ## Installing
 1. Clone the repository
@@ -19,7 +20,6 @@ flutter run
 ```
 
 ## App Screenshots
-<img src="screenshots/Carpool Documentation.jpg" alt="drawing" width="100%"/>
 <table>
   <tr>
     <td><img src="screenshots/1.jpg" alt="drawing"/></td>
