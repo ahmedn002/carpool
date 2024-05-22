@@ -22,19 +22,19 @@ flutter run
 <img src="screenshots/Carpool Documentation.jpg" alt="drawing" width="100%"/>
 <table>
   <tr>
-    <td><img src="screenshots/1.jpg" alt="drawing" width="30%"/></td>
-    <td><img src="screenshots/2.jpg" alt="drawing" width="200"/></td>
-    <td><img src="screenshots/3.jpg" alt="drawing" width="200"/></td>
+    <td><img src="screenshots/1.jpg" alt="drawing"/></td>
+    <td><img src="screenshots/2.jpg" alt="drawing"/></td>
+    <td><img src="screenshots/3.jpg" alt="drawing"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/4.jpg" alt="drawing" width="200"/></td>
-    <td><img src="screenshots/5.jpg" alt="drawing" width="200"/></td>
-    <td><img src="screenshots/6.jpg" alt="drawing" width="200"/></td>
+    <td><img src="screenshots/4.jpg" alt="drawing"/></td>
+    <td><img src="screenshots/5.jpg" alt="drawing"/></td>
+    <td><img src="screenshots/6.jpg" alt="drawing"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/7.jpg" alt="drawing" width="200"/></td>
-    <td><img src="screenshots/8.jpg" alt="drawing" width="200"/></td>
-    <td><img src="screenshots/09.jpg" alt="drawing" width="200"/></td>
+    <td><img src="screenshots/7.jpg" alt="drawing"/></td>
+    <td><img src="screenshots/8.jpg" alt="drawing"/></td>
+    <td><img src="screenshots/09.jpg" alt="drawing"/></td>
   </tr>
 </table>
 
