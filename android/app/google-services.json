@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2535828911",
+    "project_id": "asufecarpool",
+    "storage_bucket": "asufecarpool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2535828911:android:db4053c58f6f5745cdd35a",
+        "android_client_info": {
+          "package_name": "com.example.milestoneone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ay0gz01vCJVtG92k9KD-kBIm2DnHJCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
