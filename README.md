@@ -19,7 +19,7 @@ flutter run
 ```
 
 ## App Screenshots
-<img src="screenshots/Carpool Documentation.png" alt="drawing" width="200"/>
+<img src="screenshots/Carpool Documentation.jpg" alt="drawing" width="200"/>
 <img src="screenshots/1.jpg" alt="drawing" width="200"/>
 <img src="screenshots/2.jpg" alt="drawing" width="200"/>
 <img src="screenshots/3.jpg" alt="drawing" width="200"/>
