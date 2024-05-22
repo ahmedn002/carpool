@@ -22,7 +22,7 @@ flutter run
 <img src="screenshots/Carpool Documentation.jpg" alt="drawing" width="100%"/>
 <table>
   <tr>
-    <td><img src="screenshots/1.jpg" alt="drawing" width="200"/></td>
+    <td><img src="screenshots/1.jpg" alt="drawing" width="30%"/></td>
     <td><img src="screenshots/2.jpg" alt="drawing" width="200"/></td>
     <td><img src="screenshots/3.jpg" alt="drawing" width="200"/></td>
   </tr>
